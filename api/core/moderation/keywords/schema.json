@@ -1,0 +1,8 @@
+{
+    "name": "keywords",
+    "label": {
+        "en-US": "Keywords",
+        "zh-Hans": "关键词"
+    },
+    "form_schema": {}
+}

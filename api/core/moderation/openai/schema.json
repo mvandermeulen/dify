@@ -1,0 +1,8 @@
+{
+    "name": "openai",
+    "label": {
+        "en-US": "Open AI Moderation",
+        "zh-Hans": "Open AI Moderation"
+    },
+    "form_schema": {}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "api_based",
+    "label": {
+        "en-US": "API-based Extension",
+        "zh-Hans": "基于 API 的扩展"
+    },
+    "form_schema": {},
+    "extra-config": {
+        "inputs_preset_response_display": false,
+        "onputs_preset_response_display": false
+    }
+}
