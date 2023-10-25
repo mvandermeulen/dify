@@ -1,4 +1,4 @@
-from core.helper.extensible import Extensible
+from abc import ABC
 
-class BaseModeration(Extensible):
+class BaseModeration(ABC):
     pass

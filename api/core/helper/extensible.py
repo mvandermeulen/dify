@@ -15,9 +15,6 @@ class Extensible:
         subclass_dir_path = os.path.dirname(subclass_path)
         parent_folder_name = os.path.basename(os.path.dirname(subclass_dir_path))
 
-        if parent_folder_name == 'core':
-            return
-
         json_path = os.path.join(subclass_dir_path, 'schema.json')
         json_data = {}
         if os.path.exists(json_path):
